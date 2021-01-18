@@ -1,0 +1,6 @@
+remote:
+  description: Telecommande Livebox TV
+  fields:
+    code:
+      description: Touche
+      example: '116'

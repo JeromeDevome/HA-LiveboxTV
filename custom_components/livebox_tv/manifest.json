@@ -1,0 +1,8 @@
+{
+    "domain": "livebox_tv",
+    "name": "Livebox TV",
+    "documentation": "https://devome.com",
+    "dependencies": [],
+    "codeowners": ["@JeromeB"],
+    "requirements": []
+  }
